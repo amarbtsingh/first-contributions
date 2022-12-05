@@ -114,7 +114,7 @@
 - [Lukas de VIPART](https://github.com/Rekch)
 - [R Sathvik]@DevsocPI
 - [Kaiden Flaig]
-- [Amar B Singh]
+- [Amar B Singh] (https://github.com/amarbtsingh/)
 - [Krunal Patel](https://github.com/kd05)
 - [Salu Alhassan](https://github.com/sky2626)
 - [harsh rathi@DevSocPI](https://github.com/harshrathi12)
